@@ -272,4 +272,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: c1e626453b9dd5148a5b7935e1018ea5
+  - enabled: 1
+    path: Assets/Scenes/Soccer12.unity
+    guid: 1afc89ea9cc1d8547922fab82862614d
   m_configObjects: {}
